@@ -8,7 +8,7 @@ The generative model uses a random (Gaussian) 100 dimensional vector as an input
 ![plot](TrainingData_Example.png)
 
 ### Image Generation Example (20 Epochs)
-![plot](generated_plot_e0020 (best).png)
+![plot](generated_plot_e0020.png)
 
 ### Image Generation Example (176 Epochs)
 ![plot](generated_plot_e176.png)
