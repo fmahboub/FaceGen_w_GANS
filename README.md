@@ -1,3 +1,3 @@
-# Face_Generator
+# Face Generation Using GANS
 
 A thing
