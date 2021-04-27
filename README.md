@@ -13,7 +13,8 @@ The generative model uses a random (Gaussian) 100 dimensional vector as an input
 ### Image Generation Example (176 Epochs)
 ![plot](generated_plot_e176.png)
 
-###
-
 ### Video of Training Progress
 https://www.linkedin.com/posts/fmahboub_gans-neuralnetworks-activity-6730575941287985152-ZTXZ
+
+### References
+https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/
